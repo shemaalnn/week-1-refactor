@@ -136,6 +136,7 @@ p {
 }
 
 .search-engine-optimization {
+    position: inherit;
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -145,6 +146,7 @@ p {
 }
 
 .online-reputation-management {
+    position: inherit;
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -154,6 +156,7 @@ p {
 }
 
 .social-media-marketing {
+    position: inherit;
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -163,14 +166,17 @@ p {
 }
 
 .search-engine-optimization img {
+    position: relative;
     max-height: 200px;
 }
 
 .online-reputation-management img {
+    position: relative;
     max-height: 200px;
 }
 
 .social-media-marketing img {
+    position: relative;
     max-height: 200px;
 }
 
