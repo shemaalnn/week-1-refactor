@@ -198,3 +198,9 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+
+footer {
+    background-color: #2a607c;
+    font-size: small;
+    text-align: center;
+}
